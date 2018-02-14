@@ -1,0 +1,17 @@
+body {
+	background: #FFFFFF;
+	font-family: "serif", "sans-serif", "cursive";
+}
+.logo a {
+	font-size: 80px;
+	color: #6fa83f;
+}
+.texto-1 {
+	font-size: 20px;
+	font-weight: bold;
+	color: #442C88;
+}
+
+.login-box{
+	border: 1px solid #6fa83f;
+}
